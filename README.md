@@ -1,8 +1,8 @@
 # Amplificadores Operacionais em Operações Matemáticas
 
-Projeto desenvolvido para a disciplina de Física Aplicada do SENAC CAS.
+Projeto desenvolvido para a disciplina de Física Aplicada do Bacharelado de Engenharia da Computação.
 
-O objetivo deste trabalho foi analisar o funcionamento de amplificadores operacionais utilizados para realizar operações matemáticas analógicas por meio de simulações no SimulIDE.
+O objetivo dessa atividade foi analisar o funcionamento de amplificadores operacionais utilizados para realizar operações matemáticas analógicas por meio de simulações no SimulIDE.
 
 ## Circuitos desenvolvidos
 
@@ -64,10 +64,6 @@ No integrador, a onda quadrada de entrada foi convertida em uma onda aproximadam
 
 O repositório contém os arquivos de simulação desenvolvidos no SimulIDE, permitindo a reprodução dos experimentos realizados no relatório.
 
-## Disciplina
-
-Física Aplicada — SENAC CAS
-
 ## Observação
 
-Os arquivos devem ser abertos utilizando o SimulIDE.
+O arquivo deve ser aberto utilizando o SimulIDE.
